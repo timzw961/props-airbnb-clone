@@ -5,3 +5,6 @@ So I created this air bnb clone on my local environment first using npm start. T
 # Main point of this project is to practice and get use to Props, which I have achieved. 
 
 This is also the section 2 project of the React Scrimba course
+
+05/05/22
+I should probably add the project name at the top right of the navbar like the other react projects (react facts website and meme generator)
